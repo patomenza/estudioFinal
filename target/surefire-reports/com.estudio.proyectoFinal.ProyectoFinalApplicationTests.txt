@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.estudio.proyectoFinal.ProyectoFinalApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 8.19 s - in com.estudio.proyectoFinal.ProyectoFinalApplicationTests

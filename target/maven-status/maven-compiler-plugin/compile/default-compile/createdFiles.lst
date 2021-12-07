@@ -1,0 +1,12 @@
+com\estudio\proyectoFinal\servicios\AutorServicio.class
+com\estudio\proyectoFinal\controladores\MainController.class
+com\estudio\proyectoFinal\entidades\Autor.class
+com\estudio\proyectoFinal\entidades\Libro.class
+com\estudio\proyectoFinal\repositorios\EditorialRepositorio.class
+com\estudio\proyectoFinal\controladores\LibroController.class
+com\estudio\proyectoFinal\servicios\EditorialServicio.class
+com\estudio\proyectoFinal\servicios\LibroServicio.class
+com\estudio\proyectoFinal\entidades\Editorial.class
+com\estudio\proyectoFinal\ProyectoFinalApplication.class
+com\estudio\proyectoFinal\repositorios\LibroRepositorio.class
+com\estudio\proyectoFinal\repositorios\AutorRepositorio.class
